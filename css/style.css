@@ -3,11 +3,11 @@ body {
 }
 
 h1 {
-    color:aqua;
+    color:hwb(180 80% 93%);
 }
 
 h3 {
-    color:aqua;
+    color:hwb(180 80% 93%);
 }
 
 hr {
