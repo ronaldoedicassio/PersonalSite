@@ -1,8 +1,16 @@
-body{
+body {
     background-color: #e3f2e7;
 }
 
-hr{
+h1 {
+    color:aqua;
+}
+
+h3 {
+    color:aqua;
+}
+
+hr {
     border-style: none;
     border-top-style: dotted;
     border-color: grey;
